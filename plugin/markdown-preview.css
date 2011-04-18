@@ -37,7 +37,7 @@ body div#content code {
 
 body h4#title {
   font-family : verdana, sans-serif;
-  display     : block;
+  display     : none;
   margin      : 0 auto;
   width       : 920px;
 }
