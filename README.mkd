@@ -6,6 +6,8 @@ The web page it opens is loosely styled on how GitHub would render README.mkd.
 
 ## Install
 
+Install with [Vundle](https://github.com/gmarik/vundle#about) or...
+
 **Download**  
 
 * Option 1  
